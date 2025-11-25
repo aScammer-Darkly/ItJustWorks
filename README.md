@@ -29,3 +29,5 @@ Truth can lead to worry, self-doubt, or even accountability.
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/aScammer-Darkly/ItJustWorks/main/install.sh | bash
+
+you probably shouldn't use this. It doesn'y yet exist. But if you do and something happens... put in a pr so I can  ~steal~ update.
